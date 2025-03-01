@@ -1,6 +1,5 @@
+com/mycompany/velascirios/resources/JakartaEE11Resource.class
 com/mycompany/velascirios/Main.class
 com/mycompany/velascirios/AccesoDatos.class
 com/mycompany/velascirios/Menu.class
-com/mycompany/velascirios/resources/JakartaEE11Resource.class
-com/mycompany/velascirios/JakartaRestConfiguration.class
 com/mycompany/velascirios/Datos.class
